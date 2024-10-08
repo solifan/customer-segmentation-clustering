@@ -4,6 +4,5 @@
 
 ![image]([https://github.com/user-attachments/assets/1d1881fa-0a78-46fc-ade9-2c1a6071c24d](https://www.xsights.co.uk/wp-content/uploads/2024/05/musteri-segmentasyonu.png))
 
-## Important file in this repo---->
 
 
